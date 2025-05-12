@@ -1,4 +1,5 @@
 # 📢 Text to Speech Converter 🎙️
+![image](https://github.com/user-attachments/assets/38a81943-8f50-4343-b5ff-7eeebe782d07)
 
 Welcome to the **Text to Speech Converter** project! This web application transforms your text into natural-sounding speech with various English accents. Built with **Flask, HTML, Tailwind CSS, and JavaScript**, it offers a sleek and responsive user interface. 🌐✨
 
