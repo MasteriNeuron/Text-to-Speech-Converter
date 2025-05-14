@@ -1,7 +1,9 @@
 # 📢 Text to Speech Converter 🎙️
 ![image](https://github.com/user-attachments/assets/38a81943-8f50-4343-b5ff-7eeebe782d07)
 
-Welcome to the **Text to Speech Converter** project! This web application transforms your text into natural-sounding speech with various English accents. Built with **Flask, HTML, Tailwind CSS, and JavaScript**, it offers a sleek and responsive user interface. 🌐✨
+Welcome to the **Text-to-Speech (TTS) Converter project!** This application converts user-provided text into natural-sounding speech with customizable English accents. Built using Flask, gTTS (Google Text-to-Speech), HTML, Tailwind CSS, and JavaScript, it offers a sleek, responsive UI and is architected with modularity, error handling, and configuration management—making it ideal for integration into larger systems. 🌐✨
+
+
 
 ---
 
@@ -11,7 +13,7 @@ Welcome to the **Text to Speech Converter** project! This web application transf
 - **Fast Conversion**: Convert text to speech in seconds with a seamless experience. ⚡  
 - **Responsive Design**: Access the app on any device, from desktops to mobiles. 📱💻  
 - **User-Friendly Interface**: Modern UI with intuitive controls and audio playback. 🎨  
-- **Powered by iNeuron.ai**: Leverages advanced text-to-speech technology. 🧠  
+- **Powered by Pwskills.com**: Leverages advanced text-to-speech technology. 🧠  
 
 ---
 
