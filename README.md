@@ -19,10 +19,24 @@ Welcome to the **Text-to-Speech (TTS) Converter project!** This application conv
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Flask (Python) 🐍  
+- **Backend**: Flask (Python) 🐍
+- **Text-to-Speech Engine**: gTTS (Google Text-to-Speech) 🎧
 - **Frontend**: HTML, Tailwind CSS, JavaScript 🌐  
 - **Libraries**: jQuery, Font Awesome (for icons) 📚  
 - **Deployment**: Runs locally with Flask server 🌍  
+
+---
+
+## 📦 Project Overview
+- This application performs the following operations:
+- Accepts a text input and a desired accent (e.g., British, Indian, Australian).
+- Validates and maps the accent to a corresponding TLD (e.g., .co.uk for British).
+- Converts the text to speech using gTTS with the chosen accent.
+- Saves the original text input to a file for logging (userinput.txt).
+- Stores the generated MP3 audio file with a timestamped name.
+- Encodes the MP3 file into a base64 string for easy usage in web or other systems.
+- Returns the base64 audio string to the client for playback or transmission.
+- Handles errors gracefully with custom exceptions (TTSException) and logging.
 
 ---
 
